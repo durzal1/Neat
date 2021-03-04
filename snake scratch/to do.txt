@@ -1,0 +1,3 @@
+give mutation rate per gene 
+try readding my exponential value for mutation
+make a new class for testing XOR
